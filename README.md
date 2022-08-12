@@ -15,10 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ankanbhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankanbhattacharya" height="30" width="40" /></a>
-<a href="https://instagram.com/@_ankan_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_ankan_official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ankanbhattachar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ankanbhattachar3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankanbhattacharya89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankanbhattacharya89" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dg072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dg072" height="30" width="40" /></a>
+<a href="https://instagram.com/@darshan_ghetiya72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@darshan_ghetiya72" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
